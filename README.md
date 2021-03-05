@@ -6,7 +6,7 @@ Overview:
 ----------
 RNA-seq data, we need to first align reads to the mouse genome and then align the remaining reads to the human genome, because these data are also from the humanized mice. Then do gene ontology enrichment analysis and use IGV to check expression profiling of coding and non-coding RNAs, SNP and copy number profiling, and functional assays.
 
-![alt text](https://github.com/chen496/RNA-seq-anaysis/blob/2515339f5474c5059b8501804d8ed2ab4792458d/1.mRNA-seq%20alignment-Bowtie2/Read%20mapping%20and%20transcript%20identification%20strategies.png
+![alt text](https://github.com/chen496/Humanized-mice-model_RNA-seq_analysis/blob/71bce98ac3f27b1f6102e911d936a4387ed656fb/4.%20Integrative%20Genomics%20Viewer_%20IGV/IGV%20%20human/9-12/EEF2.png
 )
 
 Background:
