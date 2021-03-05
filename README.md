@@ -38,6 +38,10 @@ Software:
 3. Gorilla-  Gene ontology enrichment analysis
 4. IGV-  Integrative Genomics Viewer
 
+
+![alt text](https://github.com/chen496/Humanized-mice-model_RNA-seq_analysis/blob/e60b2f8b303194747da4a0b5f086e4d91170f1da/4.%20Integrative%20Genomics%20Viewer_%20IGV/IGV%20%20human/9-12/EEF2.png
+)
+
 Reference:
 ----------
 
