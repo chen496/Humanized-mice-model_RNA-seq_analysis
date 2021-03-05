@@ -6,9 +6,6 @@ Overview:
 ----------
 RNA-seq data, we need to first align reads to the mouse genome and then align the remaining reads to the human genome, because these data are also from the humanized mice. Then do gene ontology enrichment analysis and use IGV to check expression profiling of coding and non-coding RNAs, SNP and copy number profiling, and functional assays.
 
-![alt text](https://github.com/chen496/Humanized-mice-model_RNA-seq_analysis/blob/71bce98ac3f27b1f6102e911d936a4387ed656fb/4.%20Integrative%20Genomics%20Viewer_%20IGV/IGV%20%20human/9-12/EEF2.png
-)
-
 Background:
 ----------
 Initial stages of HIV pathogenesis are now strongly believed to be reliant on microbial translocation from the gut which drives the systemic inflammation needed for HIV/SIV.
@@ -16,6 +13,10 @@ Initial stages of HIV pathogenesis are now strongly believed to be reliant on mi
 Hypothesis : EcoHIV, a modified HIV which can infect mouse cells, would recapitulate early consequences of HIV-1 at the systemic level, such as bacterial translocation, and inquired whether combination of infection with opiates would worsen these symptoms.
 
 Humanized mice model:
+![alt text](
+https://github.com/chen496/Humanized-mice-model_DNA-seq_analysis/blob/4494f75eda653a4faf3da1bc419a48918d1347d6/EcoHIV.png
+)
+
 ----------
 Most infectious models have focused on “humanizing” the mice either by creating transgenic mice with human HIV co-receptors or generating chimeric mice with human immune cell grafts. 
 
