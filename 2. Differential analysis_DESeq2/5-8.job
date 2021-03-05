@@ -1,0 +1,15 @@
+#!/bin/bash
+#BSUB -J 5-8
+#BSUB -o 5-8.out
+#BSUB -e 5-8.err
+#BSUB -W 20:00
+#BSUB -q bigmem
+#BSUB -n 60
+#BSUB -B
+#BSUB -N
+#BSUB -u cxw496@miami.edu
+cd /scratch/tmp/cxwRNA/DESeq2
+module switch gcc/4.9.3
+module load R/3.3.1
+module load openmpi
+Rscript 5-8.R

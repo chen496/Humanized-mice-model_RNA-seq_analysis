@@ -1,0 +1,93 @@
+ [1] "1.sort.bam"      "2.sort.bam"      "3.sort.bam"      "4.sort.bam"     
+ [5] "5.sort.bam"      "6.sort.bam"      "7.sort.bam"      "8.sort.bam"     
+ [9] "human_mouse.gtf" "human.gtf"       "mouse.gtf"       "samples.xlsx"   
+[1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+Seqinfo object with 47 sequences from an unspecified genome:
+  seqnames seqlengths isCircular genome
+  1         249250621       <NA>   <NA>
+  10        135534747       <NA>   <NA>
+  11        135006516       <NA>   <NA>
+  12        133851895       <NA>   <NA>
+  13        115169878       <NA>   <NA>
+  ...             ...        ...    ...
+  chr8      129401213       <NA>   <NA>
+  chr9      124595110       <NA>   <NA>
+  chrM          16299       <NA>   <NA>
+  chrX      171031299       <NA>   <NA>
+  chrY       91744698       <NA>   <NA>
+$SnowParam
+class: SnowParam
+  bpisup: FALSE; bpnworkers: 60; bptasks: 0; bpjobname: BPJOB
+  bplog: FALSE; bpthreshold: INFO; bpstopOnError: TRUE
+  bptimeout: 2592000; bpprogressbar: FALSE
+  bpRNGseed: 
+  bplogdir: NA
+  bpresultdir: NA
+  cluster type: SOCK
+
+$MulticoreParam
+class: MulticoreParam
+  bpisup: FALSE; bpnworkers: 14; bptasks: 0; bpjobname: BPJOB
+  bplog: FALSE; bpthreshold: INFO; bpstopOnError: TRUE
+  bptimeout: 2592000; bpprogressbar: FALSE
+  bpRNGseed: 
+  bplogdir: NA
+  bpresultdir: NA
+  cluster type: FORK
+
+$SerialParam
+class: SerialParam
+  bpisup: TRUE; bpnworkers: 1; bptasks: 0; bpjobname: BPJOB
+  bplog: FALSE; bpthreshold: INFO; bpstopOnError: TRUE
+  bptimeout: 2592000; bpprogressbar: FALSE
+  bplogdir: NA
+
+[1] 49471
+[1] 29288
+ [1] "1.sort.bam"      "2.sort.bam"      "3.sort.bam"      "4.sort.bam"     
+ [5] "5.sort.bam"      "6.sort.bam"      "7.sort.bam"      "8.sort.bam"     
+ [9] "human_mouse.gtf" "human.gtf"       "mouse.gtf"       "samples.xlsx"   
+[1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+Seqinfo object with 47 sequences from an unspecified genome:
+  seqnames seqlengths isCircular genome
+  1         249250621       <NA>   <NA>
+  10        135534747       <NA>   <NA>
+  11        135006516       <NA>   <NA>
+  12        133851895       <NA>   <NA>
+  13        115169878       <NA>   <NA>
+  ...             ...        ...    ...
+  chr8      129401213       <NA>   <NA>
+  chr9      124595110       <NA>   <NA>
+  chrM          16299       <NA>   <NA>
+  chrX      171031299       <NA>   <NA>
+  chrY       91744698       <NA>   <NA>
+$SnowParam
+class: SnowParam
+  bpisup: FALSE; bpnworkers: 60; bptasks: 0; bpjobname: BPJOB
+  bplog: FALSE; bpthreshold: INFO; bpstopOnError: TRUE
+  bptimeout: 2592000; bpprogressbar: FALSE
+  bpRNGseed: 
+  bplogdir: NA
+  bpresultdir: NA
+  cluster type: SOCK
+
+$MulticoreParam
+class: MulticoreParam
+  bpisup: FALSE; bpnworkers: 14; bptasks: 0; bpjobname: BPJOB
+  bplog: FALSE; bpthreshold: INFO; bpstopOnError: TRUE
+  bptimeout: 2592000; bpprogressbar: FALSE
+  bpRNGseed: 
+  bplogdir: NA
+  bpresultdir: NA
+  cluster type: FORK
+
+$SerialParam
+class: SerialParam
+  bpisup: TRUE; bpnworkers: 1; bptasks: 0; bpjobname: BPJOB
+  bplog: FALSE; bpthreshold: INFO; bpstopOnError: TRUE
+  bptimeout: 2592000; bpprogressbar: FALSE
+  bplogdir: NA
+
+[1] 49487     8
+[1] 49487
+[1] 29290
