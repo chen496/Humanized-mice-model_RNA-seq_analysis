@@ -13,12 +13,12 @@ Initial stages of HIV pathogenesis are now strongly believed to be reliant on mi
 Hypothesis : EcoHIV, a modified HIV which can infect mouse cells, would recapitulate early consequences of HIV-1 at the systemic level, such as bacterial translocation, and inquired whether combination of infection with opiates would worsen these symptoms.
 
 Humanized mice model:
+----------
+Most infectious models have focused on “humanizing” the mice either by creating transgenic mice with human HIV co-receptors or generating chimeric mice with human immune cell grafts. 
 
 ![alt text](https://github.com/chen496/Humanized-mice-model_DNA-seq_analysis/blob/4494f75eda653a4faf3da1bc419a48918d1347d6/EcoHIV.png
 )
 
-----------
-Most infectious models have focused on “humanizing” the mice either by creating transgenic mice with human HIV co-receptors or generating chimeric mice with human immune cell grafts. 
 
 Goal: 
 ----------
