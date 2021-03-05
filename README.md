@@ -6,6 +6,9 @@ Overview:
 ----------
 RNA-seq data, we need to first align reads to the mouse genome and then align the remaining reads to the human genome, because these data are also from the humanized mice. Then do gene ontology enrichment analysis and use IGV to check expression profiling of coding and non-coding RNAs, SNP and copy number profiling, and functional assays.
 
+![alt text](https://github.com/chen496/RNA-seq-anaysis/blob/2515339f5474c5059b8501804d8ed2ab4792458d/1.mRNA-seq%20alignment-Bowtie2/Read%20mapping%20and%20transcript%20identification%20strategies.png
+)
+
 Background:
 ----------
 Initial stages of HIV pathogenesis are now strongly believed to be reliant on microbial translocation from the gut which drives the systemic inflammation needed for HIV/SIV.
