@@ -2,6 +2,37 @@
 
 
 
+Overview:
+----------
+RNA-seq data, we need to first align reads to the mouse genome and then align the remaining reads to the human genome, because these data are also from the humanized mice. Then do gene ontology enrichment analysis and use IGV to check expression profiling of coding and non-coding RNAs, SNP and copy number profiling, and functional assays.
+
+Background:
+----------
+Initial stages of HIV pathogenesis are now strongly believed to be reliant on microbial translocation from the gut which drives the systemic inflammation needed for HIV/SIV.
+
+Hypothesis : EcoHIV, a modified HIV which can infect mouse cells, would recapitulate early consequences of HIV-1 at the systemic level, such as bacterial translocation, and inquired whether combination of infection with opiates would worsen these symptoms.
+
+Humanized mice model:
+----------
+Most infectious models have focused on “humanizing” the mice either by creating transgenic mice with human HIV co-receptors or generating chimeric mice with human immune cell grafts. 
+
+Goal: 
+----------
+Explore the  bacterial translocation in tissues after EcoHIV-infection, and characterize the humanized mice model
+
+The pipeline has 4 steps:
+
+1. RNA-seq alignment-Bowtie2
+2. Analyzed differentially expressed genes-DESeq2  
+3. Performed gene ontology enrichment analysis-Gorilla
+4. View information in bam files-Integrative Genomics Viewer (IGV)
+
+Software:
+----------
+1. Bowtie2 -RNA-seq alignment
+2. DESeq2  - Differential expressed genes analysis
+3. Gorilla-  Gene ontology enrichment analysis
+4. IGV-  Integrative Genomics Viewer
 
 Reference:
 ----------
